@@ -5,14 +5,15 @@
 
 [![DVWA Writeups](https://github-readme-stats.vercel.app/api/pin/?username=Aftab700&theme=codeSTACKr&repo=DVWA-Writeup)](https://github.com/Aftab700/DVWA-Writeup)  
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=behind24proxies&theme=codeSTACKr&repo=website_stats)](https://github.com/behind24proxies/website_stats)
+[![Writeups](https://github-readme-stats.vercel.app/api/pin/?username=Aftab700&theme=codeSTACKr&repo=Writeups)](https://github.com/Aftab700/Writeups)
 
 
-ss
-
+<br>
 
 ## 💫 _me in my free time :_ 
 - CTF
+
+<br>
 
 ## 🌐 Socials:
 
