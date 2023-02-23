@@ -1,11 +1,18 @@
-### Hi there 👋
+### Hello there 
 
 
+## :fire: _Some special repos :fire:_:
+
+[![DVWA Writeups](https://github-readme-stats.vercel.app/api/pin/?username=Aftab700&theme=codeSTACKr&repo=DVWA-Writeup)](https://github.com/Aftab700/DVWA-Writeup)  
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=behind24proxies&theme=codeSTACKr&repo=website_stats)](https://github.com/behind24proxies/website_stats)
 
 
-# 💫 About Me:
-I like playing CTF
+ss
 
+
+## 💫 _me in my free time :_ 
+- CTF
 
 ## 🌐 Socials:
 
