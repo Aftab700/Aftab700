@@ -1,8 +1,8 @@
 ### Hello there 
 
-[![stats](https://github-readme-stats.vercel.app/api?username=Aftab700&theme=tokyonight&show_icons=true&count_private=true)]()
+[![stats](https://github-readme-stats.vercel.app/api?username=Aftab700&theme=tokyonight&show_icons=true&count_private=true)](#hello-there)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aftab700&layout=compact&theme=codeSTACKr)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aftab700&layout=compact&theme=codeSTACKr)](#hello-there)
 
 
 ## :fire: _Some special repos :fire:_:
