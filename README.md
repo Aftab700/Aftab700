@@ -1,16 +1,16 @@
 ### Hello there 
 
-[![stats](https://github-readme-stats.vercel.app/api?username=Aftab700&theme=tokyonight&show_icons=true&count_private=true)](#hello-there)
+[![stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Aftab700&theme=tokyonight&show_icons=true&count_private=true)](#hello-there)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aftab700&layout=compact&theme=codeSTACKr)](#hello-there)
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Aftab700&layout=compact&theme=codeSTACKr)](#hello-there)
 
 
 ## :fire: _Some special repos :fire:_:
 
 
-[![Writeups](https://github-readme-stats.vercel.app/api/pin/?username=Aftab700&theme=codeSTACKr&repo=Writeups&show_icons=true)](https://github.com/Aftab700/Writeups)
+[![Writeups](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Aftab700&theme=codeSTACKr&repo=Writeups&show_icons=true)](https://github.com/Aftab700/Writeups)
 
-[![DVWA Writeups](https://github-readme-stats.vercel.app/api/pin/?username=Aftab700&theme=aura&repo=DVWA-Writeup&show_icons=true)](https://github.com/Aftab700/DVWA-Writeup)  
+[![DVWA Writeups](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Aftab700&theme=aura&repo=DVWA-Writeup&show_icons=true)](https://github.com/Aftab700/DVWA-Writeup)  
 
 
 <br>
