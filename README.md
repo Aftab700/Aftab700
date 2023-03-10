@@ -31,7 +31,7 @@
 [![Medium](https://img.shields.io/badge/-Medium-000000?logo=medium&style=plastic)](https://medium.com/@Aftab700) 
 [![Telegram](https://img.shields.io/badge/-Telegram-000000?style=plastic&logo=Telegram)](https://t.me/Jack_Sparrow_1337) 
 [![YouTube](https://img.shields.io/badge/-YouTube-000000?style=plastic&logo=YouTube&logoColor=FC2503)](https://youtube.com/@Aftab700) 
-[![Instagram](https://img.shields.io/badge/-Instagram-000000?style=plastic&logo=Instagram)](https://instagram.com/aftab__sama) 
+<!-- [![Instagram](https://img.shields.io/badge/-Instagram-000000?style=plastic&logo=Instagram)](https://instagram.com/aftab__sama)  -->
 
 
 
