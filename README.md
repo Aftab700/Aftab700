@@ -26,7 +26,8 @@
 [![HTB](https://img.shields.io/badge/-HackTheBox-000000?style=plastic&logo=hackthebox)](https://app.hackthebox.com/profile/668328) 
 [![THM](https://img.shields.io/badge/-TryHackMe-000000?logo=tryhackme&logoColor=red&style=plastic)](https://tryhackme.com/p/Aftabsama) 
 [![Discord URL](https://img.shields.io/badge/-Discord-000000?logo=discord&style=plastic)](http://discordapp.com/users/759615120820928513) 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?logo=linkedin&style=plastic)](https://linkedin.com/in/aftab-sama) 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?logo=linkedin&style=plastic)](https://linkedin.com/in/aftab-sama)
+<!-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?logo=linkedin&style=plastic)](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=aftab-sama) -->
 [![Twitter](https://img.shields.io/badge/-Twitter-000000?style=plastic&logo=Twitter)](https://twitter.com/AftabSama700) 
 [![Medium](https://img.shields.io/badge/-Medium-000000?logo=medium&style=plastic)](https://medium.com/@Aftab700) 
 [![Telegram](https://img.shields.io/badge/-Telegram-000000?style=plastic&logo=Telegram)](https://t.me/Jack_Sparrow_1337) 
