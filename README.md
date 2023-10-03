@@ -8,9 +8,9 @@
 ## :fire: _Some special repos :fire:_:
 
 
-[![Writeups](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Aftab700&theme=codeSTACKr&repo=Writeups&show_icons=true)](https://github.com/Aftab700/Writeups)
+[![Writeups](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Aftab700&theme=codeSTACKr&repo=Writeups&show_icons=true)](https://github.com/Aftab700/Writeups#readme)
 
-[![DVWA Writeups](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Aftab700&theme=aura&repo=DVWA-Writeup&show_icons=true)](https://github.com/Aftab700/DVWA-Writeup)  
+[![DVWA Writeups](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Aftab700&theme=aura&repo=DVWA-Writeup&show_icons=true)](https://github.com/Aftab700/DVWA-Writeup#readme)  
 
 
 <br>
