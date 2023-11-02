@@ -32,7 +32,7 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-000000?style=plastic&logo=Telegram)](https://tttttt.me/Jack_Sparrow_1337) 
 [![YouTube](https://img.shields.io/badge/-YouTube-000000?style=plastic&logo=YouTube&logoColor=FC2503)](https://youtube.com/@Aftab700) 
 [![Mail](https://img.shields.io/badge/-Mail-000000?style=plastic&logo=gmail&logoColor=FC2503)](mailto:mrmr40873@gmail.com) 
-<!-- [![Instagram](https://img.shields.io/badge/-Instagram-000000?style=plastic&logo=Instagram)](https://instagram.com/aftab__sama)  -->
+[![Instagram](https://img.shields.io/badge/-Instagram-000000?style=plastic&logo=Instagram)](https://instagram.com/aftab__sama)
 
 
 
