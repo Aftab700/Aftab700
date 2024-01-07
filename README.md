@@ -1,24 +1,23 @@
-### Hello there 
+## Hello there 
 
 [![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Aftab700&theme=tokyonight&show_icons=true&count_private=true)](#hello-there)
 
-[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Aftab700&layout=compact&theme=codeSTACKr)](#hello-there)
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Aftab700&layout=compact&theme=midnight-purple)](#hello-there)
 
 
 ## :fire: _Some special repos :fire:_:
 
 
-[![Writeups](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Aftab700&theme=codeSTACKr&repo=Writeups&show_icons=true)](https://github.com/Aftab700/Writeups#readme)
+[![Writeups](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Aftab700&theme=blue-green&repo=Writeups&show_icons=true)](https://github.com/Aftab700/Writeups#readme) 
+&nbsp; &nbsp;
+[![DVWA Writeups](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Aftab700&theme=radical&repo=DVWA-Writeup&show_icons=true)](https://github.com/Aftab700/DVWA-Writeup#readme)  
 
-[![DVWA Writeups](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Aftab700&theme=aura&repo=DVWA-Writeup&show_icons=true)](https://github.com/Aftab700/DVWA-Writeup#readme)  
 
-
-<br>
 
 ## 💫 _me in my free time :_ 
 - CTF
 
-<br>
+
 
 ## 🌐 Socials:
 
@@ -52,3 +51,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![](https://komarev.com/ghpvc/?username=Aftab700)](#)
