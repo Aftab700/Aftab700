@@ -1,4 +1,4 @@
-## Hello there 
+## Hello there 👋
 
 [![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Aftab700&theme=tokyonight&show_icons=true&count_private=true)](#hello-there)
 
@@ -11,7 +11,6 @@
 [![Writeups](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Aftab700&theme=blue-green&repo=Writeups&show_icons=true)](https://github.com/Aftab700/Writeups#readme) 
 &nbsp; &nbsp;
 [![DVWA Writeups](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Aftab700&theme=radical&repo=DVWA-Writeup&show_icons=true)](https://github.com/Aftab700/DVWA-Writeup#readme)  
-
 
 
 ## 💫 _me in my free time :_ 
