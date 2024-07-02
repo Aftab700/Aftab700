@@ -51,5 +51,3 @@ Here are some ideas to get you started:
 -->
 
 [![](https://komarev.com/ghpvc/?username=Aftab700)](#)
-
-![](https://aftab700.pythonanywhere.com/api/github/Aftab700)
