@@ -4,14 +4,13 @@
 
 [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Aftab700&layout=compact&theme=midnight-purple)](#hello-there)
 
-
+<!--
 ## :fire: _Some special repos :fire:_:
-
 
 [![Writeups](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Aftab700&theme=blue-green&repo=Writeups&show_icons=true)](https://github.com/Aftab700/Writeups#readme) 
 &nbsp; &nbsp;
 [![DVWA Writeups](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Aftab700&theme=radical&repo=DVWA-Writeup&show_icons=true)](https://github.com/Aftab700/DVWA-Writeup#readme)  
-
+-->
 
 ## 💫 _me in my free time :_ 
 - CTF
